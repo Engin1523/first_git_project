@@ -1,0 +1,11 @@
+****GIT DAY1******
+1. Create a project
+2. Create a GITHUB REPOSITORY
+    * go to github
+    * Repositories>Create New Repository> postGreJDBC
+3. Create a new commit for the first time
+    * git init
+    * git add .
+
+Note: git status
+Benim token: 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
