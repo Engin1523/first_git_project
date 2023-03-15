@@ -8,3 +8,4 @@
     * git add .
 
 Note: git status
+GİTHUB BAŞARILI OLDU.
