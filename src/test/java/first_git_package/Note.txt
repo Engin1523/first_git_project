@@ -8,4 +8,3 @@
     * git add .
 
 Note: git status
-Benim token: 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
