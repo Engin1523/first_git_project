@@ -35,6 +35,9 @@
         * git add .
         * git commit -m "committing my codes"
         * git push
+NOTE: PULL BEFORE PUSH
+        * git pull  -> git add .  -> git commit -m "message"  -> git push
+
 
 
 Note: git status This is our friend. This can be used anytime to see the progress
