@@ -23,9 +23,18 @@
     * Create two Java Classes: MyThirdClass, MyFourthClass
     * Create a commit with ONLY MyFourthClass
         * git add "src/test/java/first_git_package/MyFourthClass.java"
-        * git commit -m"committing my fourth class"
+        * git commit -m "committing my fourth class"
         * git push
-
+6. GIT PULL
+    * git pull is used to get the code from github.
+    * git pull = git fetch + git merch
+        NOTE: İf git pull trows error then use:
+        git fetch
+        git merch
+    * NOW THAT WE HAVE OUR LOCAL UPDATED, THEN COMMIT THE CODES AND PUSH ALL TOGETHER
+        * git add .
+        * git commit -m "committing my codes"
+        * git push
 
 
 Note: git status This is our friend. This can be used anytime to see the progress
