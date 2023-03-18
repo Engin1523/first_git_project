@@ -1,8 +1,10 @@
 ****GIT DAY1******
 1. Create a project
-2. Create a GITHUB REPOSITORY
+
+2. Create a GITHUB REPOSITORY (Repository is just a folder in Github)
     * go to github
     * Repositories>Create New Repository> postGreJDBC
+
 3. Create a FIRST COMMIT for the first time
    ONLY ONCE  * git init
    EVERY TIME * git add .
@@ -25,8 +27,9 @@
         * git add "src/test/java/first_git_package/MyFourthClass.java"
         * git commit -m "committing my fourth class"
         * git push
+
 6. GIT PULL
-    * git pull is used to get the code from github.
+    * git pull is used to get the latest code from github in our local
     * git pull = git fetch + git merch
         NOTE: İf git pull trows error then use:
         git fetch
@@ -38,7 +41,40 @@
 NOTE: PULL BEFORE PUSH
         * git pull  -> git add .  -> git commit -m "message"  -> git push
 
+7. CONFLICT
+    When we try to merge the code that are in the SAME SPOT with DIFFERENT codes.
+****How to resolve Conflict
+    Manually  fix: remove the illegal characters (error message)
+    create a new commit(add, commit)
+    then push
+****To minimize conflict; we can clone the project, add our new code quickly, then commit then push
+    https://github.com/Engin1523/first_git_project.git
+    add your new code
+    git add .
+    git commit -m ""
+    git push
+NOTE: Git clone brings the new copies. So you will not have conflict issue  because you are not merging anything. You are taking branding.
 
 
 Note: git status This is our friend. This can be used anytime to see the progress
-GİTHUB BAŞARILI OLDU.
+GİTHUB BAŞARILI OLDU
+
+
+                ****************DAY 1 SUMMARY***************
+******Prerequsions :
+* Git Install
+* Giyhub account
+* Git Authentication (create, add username and token so your account verification is complete)
+
+                            ****************DAY 2***************
+                    BRANCHING
+
+
+
+
+
+
+
+
+
+
