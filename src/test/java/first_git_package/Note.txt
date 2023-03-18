@@ -70,6 +70,14 @@ GİTHUB BAŞARILI OLDU
                             ****************DAY 2***************
                     BRANCHING
 git branch -a  -> show me all branch
+git branch ahmet -> create ahmet branch
+git checkout ahmet -> switched to ahmet branch
+created a code : MySixthClass
+create a new commit and git push
+        git add .
+        git commit -m "message"
+        git push --set-upstream origin ahmet
+Then codes will be in remote ahmet branch
 
 
 
