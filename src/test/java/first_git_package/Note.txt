@@ -66,8 +66,17 @@ GİTHUB BAŞARILI OLDU
 * Giyhub account
 * Git Authentication (create, add username and token so your account verification is complete)
 
+
                             ****************DAY 2***************
                     BRANCHING
+git branch -a  -> show me all branch
+
+
+
+
+
+
+
 
 
 
